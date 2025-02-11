@@ -23,7 +23,7 @@ I'm passionate about development, coding, and continuous learning. 🚀
 
 ### 📊 GitHub Stats:
 
-![Metrics](https://metrics.lecoq.io/kyrazzx?template=classic&languages=1&achievements=1&people=1&activity=1&config.timezone=Europe%2FParis)
+![Metrics](https://github-readme-stats.vercel.app/api?username=kyrazzx&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
