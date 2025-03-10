@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Kyra!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrazzx&label=Profile%20views&color=0e75b6&style=flat" alt="kyrazzx" /> </p>
 
 Welcome to my GitHub profile! 🎉  
 I'm passionate about development, coding, and continuous learning. 🚀
@@ -23,7 +24,7 @@ I'm passionate about development, coding, and continuous learning. 🚀
 
 ### 📊 GitHub Stats:
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=kyrazzx&show_icons=true&count_private=true&hide=prs&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyrazzx&show_icons=true&locale=en" alt="kyrazzx" /></p>
 
 ---
 
@@ -43,3 +44,6 @@ I'm passionate about development, coding, and continuous learning. 🚀
 
 Thanks for visiting my profile! 🚀  
 Feel free to explore my projects and contact me for collaboration opportunities. 💬
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/kyrazzx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kyrazzx" /></a><a href="https://ko-fi.com/kyrazzx"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kyrazzx" /></a></p><br><br>
