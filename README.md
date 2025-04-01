@@ -30,6 +30,7 @@ I'm passionate about development, coding, and continuous learning. 🚀
 
 ### 🔥 Popular Projects:
 
+- [**xPen**](https://github.com/kyrazzx/xPen/): xPen is a powerfull multitool for pentesting.
 - [**Discovery**](https://github.com/kyrazzx/discovery): Discovery is a powerfull pen-testing tool to scan open ports, vulnerabilities or other informations.
 - [**IPScanner**](https://github.com/kyrazzx/ipscanner): IPScanner is a pentesting/OSINT tool that use free APIs to extract infromations from IPs.
 - [**FlashFollow**](https://github.com/kyrazzx/flashfollow): FlashFollow is a bulk Scratch follow bot script usable with your own accounts!
