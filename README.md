@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🎉
 I'm passionate about development, coding, and continuous learning. 🚀
 
 ### 🌱 About Me:
-- 🔭 I’m currently working on some pen-testing tools.
+- 🔭 I’m a new developper.
 - 🌱 I’m currently learning C++.
 - 🧩 My long-term goal is becoming a game developper.
 
@@ -41,9 +41,6 @@ I'm passionate about development, coding, and continuous learning. 🚀
 - I’m always happy to contribute to open-source projects! Feel free to reach out if you'd like to collaborate.
 
 ---
-
-Thanks for visiting my profile! 🚀  
-Feel free to explore my projects and contact me for collaboration opportunities. 💬
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kyrazzx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kyrazzx" /></a><a href="https://ko-fi.com/kyrazzx"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kyrazzx" /></a></p><br><br>
