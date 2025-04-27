@@ -31,7 +31,7 @@ I'm passionate about development, coding, and continuous learning. 🚀
 
 - [**FloodPY**](https://github.com/kyrazzx/floodpy): FloodPY is a DDoS tool to perform flood attacks.
 - [**Github ViewBot**](https://github.com/kyrazzx/githubviewbot): This script is made to make more views on GitHub metics.
-- [**FlashFollow**](https://github.com/kyrazzx/flashfollow): FlashFollow is a bulk Scratch follow bot script usable with your own accounts!
+- [**DDoS Ripper Deobfuscate**](https://github.com/kyrazzx/DDoS-Ripper-Deobfuscate): DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic. In this desobfuscate repo, you will be able to see and edit as you want the source code. 
 
 ---
 
