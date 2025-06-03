@@ -23,8 +23,8 @@ I'm passionate about development, coding, and continuous learning. 🚀
 
 ### 📊 GitHub Stats:
 
-<img src = "https://github-readme-stats.vercel.app/api?username=kyrazzx&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kyrazzx&langs_count=8&theme=blue-green">
+<img src = "https://github-readme-stats.vercel.app/api?username=kyrazzx&&show_icons=true8&theme=midnight-purple">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kyrazzx&langs_count=8&theme=midnight-purple">
 
 ---
 
