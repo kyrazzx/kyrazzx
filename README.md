@@ -31,8 +31,8 @@ I'm passionate about development, coding, and continuous learning. 🚀
 ### 🔥 Popular Projects:
 
 - [**FloodPY**](https://github.com/kyrazzx/floodpy): FloodPY is a DDoS tool to perform flood attacks.
-- [**Github ViewBot**](https://github.com/kyrazzx/githubviewbot): This script is made to make more views on GitHub metics.
 - [**ScratchBot**](https://github.com/kyrazzx/ScratchBot): ScratchBot is an open-source bot that interact with project comments and execute commands. 
+- [**Github ViewBot**](https://github.com/kyrazzx/githubviewbot): This script is made to make more views on GitHub metics.
 
 ---
 
