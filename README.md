@@ -28,12 +28,6 @@ I'm passionate about development, coding, and continuous learning. 🚀
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kyrazzx&theme=midnight-purple)](https://github-profile-trophy.vercel.app/?username=kyrazzx&theme=midnight-purple)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyrazzx/kyrazzx/refs/heads/main/img/snake-black">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyrazzx/kyrazzx/refs/heads/main/img/snake-white">
-  <img alt="snake-grid" src="https://raw.githubusercontent.com/kyrazzx/kyrazzx/refs/heads/main/img/snake-white">
-</picture>
-
 ---
 
 ### 🔥 Popular Projects:
