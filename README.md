@@ -7,7 +7,7 @@ I'm passionate about development, coding, and continuous learning. 🚀
 ### 🌱 About Me:
 - 🔭 I’m a new developper.
 - 🌱 I’m currently learning C++.
-- 🧩 My long-term goal is becoming a game developper.
+- 🧩 My long-term goal is becoming a game developper/work as cybersecurity expert.
 
 ---
 
@@ -25,6 +25,14 @@ I'm passionate about development, coding, and continuous learning. 🚀
 
 <img src = "https://github-readme-stats.vercel.app/api?username=kyrazzx&&show_icons=true8&theme=midnight-purple">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kyrazzx&langs_count=8&theme=midnight-purple">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kyrazzx&theme=midnight-purple)](https://github-profile-trophy.vercel.app/?username=kyrazzx&theme=midnight-purple)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyrazzx/kyrazzx/refs/heads/main/img/snake-black">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyrazzx/kyrazzx/refs/heads/main/img/snake-white">
+  <img alt="snake-grid" src="https://raw.githubusercontent.com/kyrazzx/kyrazzx/refs/heads/main/img/snake-white">
+</picture>
 
 ---
 
