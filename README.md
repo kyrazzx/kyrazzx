@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kyra!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrazzx&label=Profile%20views&color=0e75b6&style=flat" alt="kyrazzx" /> </p>
+![](https://count.getloli.com/get/@kyrazzx.github.readme)
 
 Welcome to my GitHub profile! 🎉  
 I'm passionate about development, coding, and continuous learning. 🚀
