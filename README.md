@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! 🎉  
 I'm passionate about development, coding, and continuous learning. 🚀
 
-### 🌱 About Me:
+### ❓ About Me:
 - 🔭 I’m a developper (yeah ig that's why i'm on github).
 - 🌱 I’m currently learning C++.
 - 🧩 My long-term goal is becoming a game developper/work as cybersecurity expert.
