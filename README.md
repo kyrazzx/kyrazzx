@@ -23,7 +23,7 @@
 
 <br/>
 
-**Kyra** — interface is 90% of the script.
+**Kyra** — you better make a good ui instead of a good code.
 
 </div>
 
