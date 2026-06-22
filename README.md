@@ -74,9 +74,9 @@ Rewritten in Go for speed. Same idea as the Python version, less waiting around.
 </td>
 <td width="50%" valign="top">
 
-**[FloodPY](https://github.com/kyrazzx/floodpy)** `python`
+**[RAV3N](https://github.com/kyrazzx/rav3n)** `go`
 
-The original Python build. Still maintained, still works.
+A CS2 extrenal cheat with basic features as ESP, aim-bot and recoil. [outdated]
 
 </td>
 </tr>
@@ -85,14 +85,14 @@ The original Python build. Still maintained, still works.
 
 **[ScratchBot](https://github.com/kyrazzx/ScratchBot)** `python`
 
-Open-source Scratch bot — reads comments, runs commands, causes chaos responsibly.
+Open-source Scratch bot — reads comments & runs commands.
 
 </td>
 <td width="50%" valign="top">
 
 **more soon**
 
-always cooking something new. Watch the repos or dm me on Discord.
+always cooking something new. watch the repos or dm me on discord.
 
 </td>
 </tr>
