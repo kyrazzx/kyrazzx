@@ -76,7 +76,7 @@ Rewritten in Go for speed. Same idea as the Python version, less waiting around.
 
 **[RAV3N](https://github.com/kyrazzx/rav3n)** `go`
 
-A CS2 extrenal cheat with basic features as ESP, aim-bot and recoil. [outdated]
+A CS2 extrenal cheat with basic features as ESP, aim-bot and recoil.
 
 </td>
 </tr>
