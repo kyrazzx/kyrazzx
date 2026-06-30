@@ -14,7 +14,7 @@
 <br/>
 
 [![followers](https://img.shields.io/github/followers/kyrazzx?style=for-the-badge&logo=github&label=followers&color=ff69b4&labelColor=161b22)](https://github.com/kyrazzx?tab=followers)
-[![guns](https://img.shields.io/badge/site-fraud.lol-e879f9?style=for-the-badge&labelColor=161b22)](https://fraud.lol/kyrazzx)
+[![guns](https://img.shields.io/badge/site-fraud.lol-e879f9?style=for-the-badge&labelColor=161b22)](https://fraud.lol/arbor)
 [![discord](https://img.shields.io/badge/discord-kyrazzx-d946ef?style=for-the-badge&logo=discord&labelColor=161b22)](https://discord.com)
 
 <br/><br/>
